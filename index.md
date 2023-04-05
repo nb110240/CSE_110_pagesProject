@@ -3,8 +3,8 @@
 **Junior at UC San Diego**
 > very keen on learning new things and broadening my skillset
 > Always down to try new things and find the best balance for myself 
-#000000  
-![A photo of myself](CSE_110_pagesProject/Images/IMG_3438.PNG)
+
+![A photo of myself](./Images/IMG_3438.PNG)
 
 
 *Some of my hobbies*
@@ -14,8 +14,8 @@
 + trying out new foods
 
 *My task list*
-- [] Broaden my skillset and improve my programming skills
-- [] Get an internship which could help me understand what I want to pursue in the near future
+- [ ] Broaden my skillset and improve my programming skills
+- [ ] Get an internship which could help me understand what I want to pursue in the near future
 
 
 Some basic Git commands are:
@@ -27,7 +27,7 @@ git push
 git pull
 ```
 
-[The README file for this project is](./README.md)
+The README file for this project is[README](./README.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
