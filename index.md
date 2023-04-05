@@ -4,7 +4,7 @@
 > very keen on learning new things and broadening my skillset
 > Always down to try new things and find the best balance for myself 
 #000000  
-![A photo of myself](./Images/IMG_2789.HEIC)
+![A photo of myself](./Images/IMG_3438.PNG)
 
 
 *Some of my hobbies*
